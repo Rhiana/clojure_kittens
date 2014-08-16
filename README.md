@@ -1,5 +1,9 @@
-# lein new compojure kittens
-# lein ring server
+# Kittens!
+
+,,,
+lein new compojure kittens
+lein ring server
+,,,
 
 FIXME
 
